@@ -1,0 +1,15 @@
+D:\C# programming\mvs\object\bin\Debug\net6.0\object.exe
+D:\C# programming\mvs\object\bin\Debug\net6.0\object.deps.json
+D:\C# programming\mvs\object\bin\Debug\net6.0\object.runtimeconfig.json
+D:\C# programming\mvs\object\bin\Debug\net6.0\object.dll
+D:\C# programming\mvs\object\bin\Debug\net6.0\object.pdb
+D:\C# programming\mvs\object\obj\Debug\net6.0\object.csproj.AssemblyReference.cache
+D:\C# programming\mvs\object\obj\Debug\net6.0\object.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programming\mvs\object\obj\Debug\net6.0\object.AssemblyInfoInputs.cache
+D:\C# programming\mvs\object\obj\Debug\net6.0\object.AssemblyInfo.cs
+D:\C# programming\mvs\object\obj\Debug\net6.0\object.csproj.CoreCompileInputs.cache
+D:\C# programming\mvs\object\obj\Debug\net6.0\object.dll
+D:\C# programming\mvs\object\obj\Debug\net6.0\refint\object.dll
+D:\C# programming\mvs\object\obj\Debug\net6.0\object.pdb
+D:\C# programming\mvs\object\obj\Debug\net6.0\object.genruntimeconfig.cache
+D:\C# programming\mvs\object\obj\Debug\net6.0\ref\object.dll
